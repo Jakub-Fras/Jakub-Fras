@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a seasoned **Cloud Security Expert** with ov
 
 🌟 **What I Do:**
 
-As a **Cloud Security Consultant** at DXC Technology, I engage in designing, developing, and implementing cloud-based solutions for various clients and industries. I translate client requirements into actionable steps and roadmaps. With a strong background in Microsoft products, platforms, and solutions, I thrive on diving deep into complex security challenges and transforming them into robust cloud solutions. I apply my expertise to enterprise-scale projects, ensuring that our clients' cloud infrastructures are secure, scalable, and resilient. To find out more about the projects I've worked on and the impact I've had, please visit my LinkedIn projects section.
+Day to day, I work as a Cloud Security Consultant at a Fortune 500 technology company, where I design, develop, and implement cloud-based solutions for a diverse range of clients and industries. I translate client requirements into technology solutions. To find out more about the projects I've worked on and the impact I've had, please visit my LinkedIn projects section.
 
 🎓 **Credentials:**
 
@@ -13,7 +13,7 @@ As a **Cloud Security Consultant** at DXC Technology, I engage in designing, dev
 
 🚀 **What I’m Excited About:**
 
-I’m eager to collaborate on various topics ranging from cloud security, Microsoft XDR, and AI security, to zero trust architectures. Whether it's through engaging discussions or podcasts, I'm always ready to exchange insights and explore new horizons.
+I’m eager to collaborate on various topics ranging from cloud security, Microsoft XDR, and AI security, to zero trust architecture. Whether it's through engaging discussions or podcasts, I'm always ready to exchange insights and explore new horizons.
 
 🌱 **Currently Exploring:**
 
@@ -21,6 +21,7 @@ I’m eager to collaborate on various topics ranging from cloud security, Micros
 - Cloud Security
 - Azure Architecture Frameworks
 - DevSecOps
+- AI Security
 
 ⚡ **Fun Fact:**
 
