@@ -1,6 +1,6 @@
 **👋 Hi, I'm [Jakub](https://www.linkedin.com/in/jakub-fras/)!**
 
-Welcome to my GitHub profile! I’m a seasoned **Cloud Security Expert** with over 3 years of industry experience working across multiple roles. I have a deep understanding of **Microsoft Azure** & **Microsoft XDR** security stack and am also proficient in **AWS security tooling**. I'm passionate about cloud security, architecture, and self-development.
+Welcome to my GitHub profile! I’m a seasoned **Cloud Security Expert** with five years of industry experience working across multiple roles. I have a deep understanding of **Microsoft Azure** & **Microsoft XDR** security stack and am also proficient in **AWS security tooling**. I'm passionate about cloud security, architecture, and self-development.
 
 🌟 **What I Do:**
 
