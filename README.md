@@ -1,33 +1,6 @@
 **👋 Hi, I'm [Jakub](https://www.linkedin.com/in/jakub-fras/)!**
 
-Welcome to my GitHub profile! I’m a seasoned **Cloud Security Expert** with multiple years of industry experience working across multiple roles. I have a deep understanding of **Microsoft Azure** & **Microsoft XDR** security stack and am also proficient in **AWS security tooling**. I'm passionate about cloud security, architecture, and self-development.
-
-🌟 **What I Do:**
-
-Day to day, I work as a Cloud Security Consultant, where I design, develop, and implement cloud-based solutions for a diverse range of clients and industries. I translate client requirements into technology solutions. To find out more about the projects I've worked on and the impact I've had, please visit my [LinkedIn projects section](https://www.linkedin.com/in/jakub-fras/details/projects/).
-
-
-🎓 **Credentials:**
-
-- SC-100, SC-200, AZ-500, AZ-104, SC-900, AZ-900
-- AWS Security Specialty
-
-🚀 **What I’m Excited About:**
-
-I’m eager to collaborate on various topics ranging from cloud security, Microsoft XDR, and AI security, to zero trust architecture. Whether it's through engaging discussions or podcasts, I'm always ready to exchange insights and explore new horizons.
-
-🌱 **Currently Exploring:**
-
-- Microsoft XDR
-- Cloud Security
-- Azure Architecture Frameworks
-- DevSecOps
-- AI Security
-
-⚡ **Fun Fact:**
-
-My ultimate career goal is to become a **Cloud Security Architect**, shaping the future of secure cloud environments.
-
+Welcome to my GitHub profile!
 
 ## 🌐 Socials:
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn_Profile-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-fras)
